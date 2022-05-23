@@ -1,0 +1,6 @@
+projectKey=LearnHowToFly_free-programming-books
+serverUrl=https://sonarqube.internal.unity.cn
+serverVersion=9.3.0.51899
+dashboardUrl=https://sonarqube.internal.unity.cn/dashboard?id=LearnHowToFly_free-programming-books
+ceTaskId=AYCs0WHOdvfHAyDe403w
+ceTaskUrl=https://sonarqube.internal.unity.cn/api/ce/task?id=AYCs0WHOdvfHAyDe403w
